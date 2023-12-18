@@ -1,0 +1,20 @@
+.div1{
+    display: grid;
+    grid-template-columns:20% 20%;
+    /* grid-gap: 1px; */
+    /* margin: 1px; */
+}
+.leftdiv{
+    background-color:beige;
+    height: 200px;
+
+}
+.rightdiv{
+background-color:aquamarine;
+height: 200px;
+}
+.footer{
+    background-color: black;
+    width: 40%;
+    height: 100px;
+}
